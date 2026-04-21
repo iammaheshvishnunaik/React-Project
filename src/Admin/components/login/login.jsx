@@ -11,7 +11,7 @@ export default function Login() {
   return (
     <div className="login">
       <div className="login-box">
-        <div className="login-title">Login</div>
+        <div className="login-title">Login Page</div>
 
         <Textbox style="textbox" value="User Name" />
         <Textbox style="textbox" value="Password" />
